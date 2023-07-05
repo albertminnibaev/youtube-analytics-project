@@ -1,6 +1,5 @@
 
 import os
-import json
 
 # необходимо установить через: pip install google-api-python-client
 from googleapiclient.discovery import build
